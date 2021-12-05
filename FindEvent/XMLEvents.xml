@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Events>
+	<Event
+	  EventName="Промова"
+	  PersonName="Харламов І.А."
+	  Faculty="Історичний факультет"
+	  Department="Історія України"
+	  Responsible="Асистент декана"
+	  Doer="Голова Студпарламенту"
+	  Deadline="15 травня"
+	  Time="15:00"
+	  Place="Головна сцена"
+	  Characteristic="Промова Декана Факультету" >
+	</Event>
+	<Event
+	  EventName="Промова"
+	  PersonName="Рибніков О.І."
+	  Faculty="Факультет комп'ютерних наук та кібернетики"
+	  Department="Обчислювальна математика"
+	  Responsible="Асистент декана"
+	  Doer="Голова Студпарламенту"
+	  Deadline="28 червня"
+	  Time="12:00"
+	  Place="Центральний зал"
+	  Characteristic="Промова Декана Факультету" >
+	</Event>
+	<Event
+	  EventName="Показ фільму"
+	  PersonName="Рибніков О.І."
+	  Faculty="Факультет комп'ютерних наук та кібернетики"
+	  Department="Обчислювальна математика"
+	  Responsible="Голова Студпарламенту"
+	  Doer="Креативний директор студпарламенту"
+	  Deadline="28 червня"
+	  Time="16:30"
+	  Place="Актовий зал"
+	  Characteristic="Короткий фільм про факультет" >
+	</Event>
+	<Event
+	  EventName="Показ фільму"
+	  PersonName="Рибніков О.І."
+	  Faculty="Факультет комп'ютерних наук та кібернетики"
+	  Department="Теоретична кібернетика"
+	  Responsible="Голова Студпарламенту"
+	  Doer="Креативний директор студпарламенту"
+	  Deadline="28 червня"
+	  Time="16:30"
+	  Place="Актовий зал"
+	  Characteristic="Короткий фільм про факультет" >
+	</Event>
+	<Event
+	  EventName="Показ фільму"
+	  PersonName="Аврамов А.В."
+	  Faculty="Історичний факультет"
+	  Department="Стародавня історія"
+	  Responsible="Голова Студпарламенту"
+	  Doer="Креативний директор студпарламенту"
+	  Deadline="16 червня"
+	  Time="16:30"
+	  Place="Актовий зал"
+	  Characteristic="Короткий фільм про факультет" >
+	</Event>
+	<Event
+	  EventName="Нагородження"
+	  PersonName="Хома M.I."
+	  Faculty="Фізичний факультет"
+	  Department="Теоретична фізика"
+	  Responsible="Декан факультету"
+	  Doer="Асистент декана"
+	  Deadline="6 лютого"
+	  Time="12:00"
+	  Place="Головна сцена"
+	  Characteristic="Нагородження кращих студентів" >
+	</Event>
+	<Event
+	  EventName="Нагородження"
+	  PersonName="Харламов І.А."
+	  Faculty="Історичний факультет"
+	  Department="Історія України"
+	  Responsible="Декан факультету"
+	  Doer="Асистент декана"
+	  Deadline="6 вересня"
+	  Time="12:00"
+	  Place="Головна сцена"
+	  Characteristic="Нагородження кращих студентів" >
+	</Event>
+	<Event
+	  EventName="Промова"
+	  PersonName="Хома M.I."
+	  Faculty="Фізичний факультет"
+	  Department="Теоретична фізика"
+	  Responsible="Декан факультету"
+	  Doer="Асистент декана"
+	  Deadline="6 лютого"
+	  Time="10:00"
+	  Place="Центральний зал"
+	  Characteristic="Промова Декана Факультету" >
+	</Event>
+</Events>

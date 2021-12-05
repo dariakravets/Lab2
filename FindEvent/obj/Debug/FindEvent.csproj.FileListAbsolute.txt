@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\bin\Debug\FindEvent.exe.config
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\bin\Debug\FindEvent.exe
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\bin\Debug\FindEvent.pdb
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\obj\Debug\FindEvent.csprojAssemblyReference.cache
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\obj\Debug\FindEvent.EventsForm.resources
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\obj\Debug\FindEvent.Properties.Resources.resources
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\obj\Debug\FindEvent.csproj.GenerateResource.cache
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\obj\Debug\FindEvent.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\obj\Debug\FindEvent.exe
+C:\Users\user\Desktop\KNU\T3\OOP\FindEvent\obj\Debug\FindEvent.pdb
